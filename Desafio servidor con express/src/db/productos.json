@@ -1,0 +1,26 @@
+[
+   {
+      "title": "Teclado gamer",
+      "price": 6500,
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/saasargentina/NJQgtbvCR9tUGa3BBEN2/imagen",
+      "id": 1
+   },
+   {
+      "title": "Mouse optico",
+      "price": 4000,
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/saasargentina/oaPmQNJPQeMZynN9AOk5/imagen",
+      "id": 2
+   },
+   {
+      "title": "Monitor",
+      "price": 10000,
+      "thumbnail": "https://medias.musimundo.com/medias/00562003-146550-146550-01-146550-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1ODM3NXxpbWFnZS9qcGVnfGhjMy9oNzUvMTAzOTM3NDYzNzQ2ODYvMDA1NjIwMDMtMTQ2NTUwLTE0NjU1MF8wMS0xNDY1NTBfMDEuanBnX3NpemU1MTV8ZTgyOGIwOGE4MjlkYjIxZGI1OWQ1Y2Y3ZTdhYTdkYmI2NGYxZmI5N2YxNDgyMWUyN2JmZmU3YWExYzJiMTQxYQ",
+      "id": 3
+   },
+      {
+      "title": "Parlantes",
+      "price": 12000,
+      "thumbnail": "https://medias.musimundo.com/medias/00562003-146550-146550-01-146550-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1ODM3NXxpbWFnZS9qcGVnfGhjMy9oNzUvMTAzOTM3NDYzNzQ2ODYvMDA1NjIwMDMtMTQ2NTUwLTE0NjU1MF8wMS0xNDY1NTBfMDEuanBnX3NpemU1MTV8ZTgyOGIwOGE4MjlkYjIxZGI1OWQ1Y2Y3ZTdhYTdkYmI2NGYxZmI5N2YxNDgyMWUyN2JmZmU3YWExYzJiMTQxYQ",
+      "id": 4
+   }
+]
